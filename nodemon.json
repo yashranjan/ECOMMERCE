@@ -1,0 +1,7 @@
+{
+    "env":{
+        "MONGO_USER":"nodeapp",
+        "MONGO_PASSWORD":"qwertyhere",
+        "MONGO_DEFAULT_DATABASE":"shop"
+    }
+}
