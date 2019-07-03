@@ -69,8 +69,8 @@ app.use(morgan('combined', { stream: accessLogStream }));
 app.use(bodyParser.urlencoded({ extended: false }));
 
 //Configuring https and reading server.key and server.cert
-const privateKey = fs.readFileSync('server.key');
-const certificate = fs.readFileSync('server.cert');
+// const privateKey = fs.readFileSync('server.key');
+// const certificate = fs.readFileSync('server.cert');
 
 // Configuring multer
 const fileStorage = multer.diskStorage({

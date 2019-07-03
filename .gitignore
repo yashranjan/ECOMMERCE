@@ -1,3 +1,5 @@
 node_modules
 .vscode
 .eslintrc.js
+server.cert
+server.key
