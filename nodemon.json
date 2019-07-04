@@ -1,8 +1,0 @@
-{
-    "env":{
-        "MONGO_USER":"nodeapp",
-        "MONGO_PASSWORD":"qwertyhere",
-        "MONGO_DEFAULT_DATABASE":"shop",
-        "SENDGRID_API": "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"
-    }
-}
